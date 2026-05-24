@@ -1,0 +1,2121 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="424.970937pt" height="149.256562pt" viewBox="0 0 424.970937 149.256562" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-05-24T21:43:53.734422</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.0, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M -0 149.256562 
+L 424.970937 149.256562 
+L 424.970937 0 
+L -0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 38.795938 114.7075 
+L 131.970937 114.7075 
+L 131.970937 21.5325 
+L 38.795938 21.5325 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g clip-path="url(#pf93134a5d7)">
+    <image xlink:href="data:image/png;base64,
+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EAgAAECIBAAAIkQAAAIRIAAAAQiQAAAAhEgAAgBAJAABAiAQAACBEAgAAECIBAAAIkQAAAIRIAAAAQiQAAAAhEgAAgBAJAABAiAQAACBEAgAAECIBAAAIkQAAAIRIAAAAQiQAAAAhEgAAgBAJAABAiAQAACBEAgAAECIBAAAIkQAAAIRIAAAAQiQAAAAhEgAAgBAJAABAiAQAACBEAgAAECIBAAAIkQAAAIRIAAAAQiQAAAAhEgAAgBAJAABAiAQAACBEAgAAECIBAAAIkQAAAIRIAAAAQiQAAAAhEgAAgBAJAABAiAQAACBEAgAAECIBAAAIkQAAAIRIAAAAQiQAAAAhEgAAgBAJAABAiAQAACBEAgAAECIBAAAIkQAAAIRIAAAAQiQAAAAhEgAAgBAJAABAiAQAACBEAgAAECIBAAAIkQAAAIRIAAAAQiQAAAAhEgAAgBAJAABAiAQAACBEAgAAECIBAAAIkQAAAIRIAAAAQiQAAAAhEgAAgBAJAABAiAQAACBEAgAAECIBAAAIkQAAAIRIAAAAQiQAAAAhEgAAgBAJAABAiAQAACBEAgAAECIBAAAIkQAAAIRIAAAAQiQAAAAhEgAAgBAJAABAiAQAACBEAgAAECIBAAAIkQAAAIRIAAAAQiQAAAAhEgAAgBAJAABAiAQAACBEAgAAECIBAAAIkQAAAIRIAAAAQiQAAAAhEgAAgBAJAABAiAQAACBEAgAAECIBAAAIkQAAAIRIAAAAQiQAAAAhEgAAgBAJAABAiAQAACBEAgAAECIBAAAIkQAAAIRIAAAAQiQAAAAhEgAAgBAJAABAiAQAACBEAgAAECIBAAAIkQAAAIRIAAAAQiQAAAAhEgAAgBAJAABAiAQAACBEAgAAECIBAAAIkQAAAIRIAAAAQiQAAAAhEgAAgBAJAABAiAQAACBEAgAAECIBAAAIkQAAAIRIAAAAQiQAAAAhEgAAgBAJAABAiAQAACBEAgAAECIBAAAIkQAAAIRIAAAAQiQAAAAhEgAAgBAJAABAiAQAACBEAgAAECIBAAAIkQAAAIRIAAAAQiQAAAAhEgAAgBAJAABAiAQAACBEAgAAECIBAAAIkQAAAIRIAAAAQiQAAAAhEgAAgBAJAABAiAQAACBEAgAAECIBAAAIkQAAAIRIAAAAQiQAAAAhEgAAgBAJAABAiAQAACBEAgAAECIBAAAIkQAAAIRIAAAAQiQAAAAhEgAAgBAJAABAiAQAACBEAgAAECIBAAAIkQAAAIRIAAAAQiQAAAAhEgAAgBAJAABAiAQAACBEAgAAECIBAAAIkQAAAIRIAAAAQiQAAAAhEgAAgBAJAABAiAQAACBEAgAAECIBAAAIkQAAAIRIAAAAQiQAAAAhEgAAgBAJAABAiAQAACBEAgAAECIBAAAIkQAAAIRIAAAAQiQAAAAhEgAAgBAJAABAiAQAACBEAgAAECIBAAAIkQAAAIRIAAAAQiQAAAAhEgAAgBAJAABAiAQAACBEAgAAECIBAAAIkQAAAIRIAAAAQiQAAAAhEgAAgBAJAABAiAQAACBEAgAAECIBAAAIkQAAAIRIAAAAQiQAAAAhEgAAgBAJAABAiAQAACBEAgAAECIBAAAIkQAAAIRIAAAAQiQAAAAhEgAAgBAJAABAiAQAACBEAgAAECIBAAAIkQAAAIRIAAAAQiQAAAAhEgAAgBAJAABAiAQAACBEAgAAECIBAAAIkQAAAIRIAAAAQiQAAAAhEgAAgBAJAABAiAQAACBEAgAAECIBAAAIkQAAAIRIAAAAQiQAAAAhEgAAgBAJAABAiAQAACBEAgAAECIBAAAIkQAAAIRIAAAAQiQAAAAhEgAAgBAJAABAiAQAACBEAgAAECIBAAAIkQAAAIRIAAAAQiQAAAAhEgAAgBAJAABAiAQAACBEAgAAECIBAAAIkQAAAIRIAAAAQiQAAAAhEgAAgBAJAABAiAQAACBEAgAAECIBAAAIkQAAAIRIAAAAQiQAAAAhEgAAgBAJAABAiAQAACBEAgAAECIBAAAIkQAAAIRIAAAAQiQAAAAhEgAAgBAJAABAiAQAACBEAgAAECIBAAAIkQAAAIRIAAAAQiQAAAAhEgAAgBAJAABAiAQAACBEAgAAECIBAAAIkQAAAMQ/MwycxsXdnP8AAAAASUVORK5CYII=" id="imagea4c6c6b2fe" transform="scale(1 -1) translate(0 -93.24)" x="38.795938" y="-21.4675" width="93.24" height="93.24"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <path d="M 38.795938 114.7075 
+L 38.795938 21.5325 
+" clip-path="url(#pf93134a5d7)" style="fill: none; stroke-dasharray: 1.85,0.8; stroke-dashoffset: 0; stroke: #000000; stroke-width: 0.5"/>
+     </g>
+     <g id="line2d_2">
+      <defs>
+       <path id="m638e9cc7ff" d="M 0 0 
+L 0 3.5 
+" style="stroke: #000000; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#m638e9cc7ff" x="38.795938" y="114.7075" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_1">
+      <!-- -10 -->
+      <g transform="translate(32.131094 128.65125) scale(0.1 -0.1)">
+       <defs>
+        <path id="TimesNewRomanPSMT-2d" d="M 259 1672 
+L 1875 1672 
+L 1875 1200 
+L 259 1200 
+L 259 1672 
+z
+" transform="scale(0.015625)"/>
+        <path id="TimesNewRomanPSMT-31" d="M 750 3822 
+L 1781 4325 
+L 1884 4325 
+L 1884 747 
+Q 1884 391 1914 303 
+Q 1944 216 2037 169 
+Q 2131 122 2419 116 
+L 2419 0 
+L 825 0 
+L 825 116 
+Q 1125 122 1212 167 
+Q 1300 213 1334 289 
+Q 1369 366 1369 747 
+L 1369 3034 
+Q 1369 3497 1338 3628 
+Q 1316 3728 1258 3775 
+Q 1200 3822 1119 3822 
+Q 1003 3822 797 3725 
+L 750 3822 
+z
+" transform="scale(0.015625)"/>
+        <path id="TimesNewRomanPSMT-30" d="M 231 2094 
+Q 231 2819 450 3342 
+Q 669 3866 1031 4122 
+Q 1313 4325 1613 4325 
+Q 2100 4325 2488 3828 
+Q 2972 3213 2972 2159 
+Q 2972 1422 2759 906 
+Q 2547 391 2217 158 
+Q 1888 -75 1581 -75 
+Q 975 -75 572 641 
+Q 231 1244 231 2094 
+z
+M 844 2016 
+Q 844 1141 1059 588 
+Q 1238 122 1591 122 
+Q 1759 122 1940 273 
+Q 2122 425 2216 781 
+Q 2359 1319 2359 2297 
+Q 2359 3022 2209 3506 
+Q 2097 3866 1919 4016 
+Q 1791 4119 1609 4119 
+Q 1397 4119 1231 3928 
+Q 1006 3669 925 3112 
+Q 844 2556 844 2016 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#TimesNewRomanPSMT-2d"/>
+       <use xlink:href="#TimesNewRomanPSMT-31" transform="translate(33.300781 0)"/>
+       <use xlink:href="#TimesNewRomanPSMT-30" transform="translate(83.300781 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_3">
+      <path d="M 48.160259 114.7075 
+L 48.160259 21.5325 
+" clip-path="url(#pf93134a5d7)" style="fill: none; stroke-dasharray: 1.85,0.8; stroke-dashoffset: 0; stroke: #000000; stroke-width: 0.5"/>
+     </g>
+     <g id="line2d_4">
+      <g>
+       <use xlink:href="#m638e9cc7ff" x="48.160259" y="114.7075" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_2">
+      <!-- -8 -->
+      <g transform="translate(43.995415 128.65125) scale(0.1 -0.1)">
+       <defs>
+        <path id="TimesNewRomanPSMT-38" d="M 1228 2134 
+Q 725 2547 579 2797 
+Q 434 3047 434 3316 
+Q 434 3728 753 4026 
+Q 1072 4325 1600 4325 
+Q 2113 4325 2425 4047 
+Q 2738 3769 2738 3413 
+Q 2738 3175 2569 2928 
+Q 2400 2681 1866 2347 
+Q 2416 1922 2594 1678 
+Q 2831 1359 2831 1006 
+Q 2831 559 2490 242 
+Q 2150 -75 1597 -75 
+Q 994 -75 656 303 
+Q 388 606 388 966 
+Q 388 1247 577 1523 
+Q 766 1800 1228 2134 
+z
+M 1719 2469 
+Q 2094 2806 2194 3001 
+Q 2294 3197 2294 3444 
+Q 2294 3772 2109 3958 
+Q 1925 4144 1606 4144 
+Q 1288 4144 1088 3959 
+Q 888 3775 888 3528 
+Q 888 3366 970 3203 
+Q 1053 3041 1206 2894 
+L 1719 2469 
+z
+M 1375 2016 
+Q 1116 1797 991 1539 
+Q 866 1281 866 981 
+Q 866 578 1086 336 
+Q 1306 94 1647 94 
+Q 1984 94 2187 284 
+Q 2391 475 2391 747 
+Q 2391 972 2272 1150 
+Q 2050 1481 1375 2016 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#TimesNewRomanPSMT-2d"/>
+       <use xlink:href="#TimesNewRomanPSMT-38" transform="translate(33.300781 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_5">
+      <path d="M 57.524581 114.7075 
+L 57.524581 21.5325 
+" clip-path="url(#pf93134a5d7)" style="fill: none; stroke-dasharray: 1.85,0.8; stroke-dashoffset: 0; stroke: #000000; stroke-width: 0.5"/>
+     </g>
+     <g id="line2d_6">
+      <g>
+       <use xlink:href="#m638e9cc7ff" x="57.524581" y="114.7075" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_3">
+      <!-- -6 -->
+      <g transform="translate(53.359737 128.65125) scale(0.1 -0.1)">
+       <defs>
+        <path id="TimesNewRomanPSMT-36" d="M 2869 4325 
+L 2869 4209 
+Q 2456 4169 2195 4045 
+Q 1934 3922 1679 3669 
+Q 1425 3416 1258 3105 
+Q 1091 2794 978 2366 
+Q 1428 2675 1881 2675 
+Q 2316 2675 2634 2325 
+Q 2953 1975 2953 1425 
+Q 2953 894 2631 456 
+Q 2244 -75 1606 -75 
+Q 1172 -75 869 213 
+Q 275 772 275 1663 
+Q 275 2231 503 2743 
+Q 731 3256 1154 3653 
+Q 1578 4050 1965 4187 
+Q 2353 4325 2688 4325 
+L 2869 4325 
+z
+M 925 2138 
+Q 869 1716 869 1456 
+Q 869 1156 980 804 
+Q 1091 453 1309 247 
+Q 1469 100 1697 100 
+Q 1969 100 2183 356 
+Q 2397 613 2397 1088 
+Q 2397 1622 2184 2012 
+Q 1972 2403 1581 2403 
+Q 1463 2403 1327 2353 
+Q 1191 2303 925 2138 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#TimesNewRomanPSMT-2d"/>
+       <use xlink:href="#TimesNewRomanPSMT-36" transform="translate(33.300781 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_7">
+      <path d="M 66.888902 114.7075 
+L 66.888902 21.5325 
+" clip-path="url(#pf93134a5d7)" style="fill: none; stroke-dasharray: 1.85,0.8; stroke-dashoffset: 0; stroke: #000000; stroke-width: 0.5"/>
+     </g>
+     <g id="line2d_8">
+      <g>
+       <use xlink:href="#m638e9cc7ff" x="66.888902" y="114.7075" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_4">
+      <!-- -4 -->
+      <g transform="translate(62.724059 128.65125) scale(0.1 -0.1)">
+       <defs>
+        <path id="TimesNewRomanPSMT-34" d="M 2978 1563 
+L 2978 1119 
+L 2409 1119 
+L 2409 0 
+L 1894 0 
+L 1894 1119 
+L 100 1119 
+L 100 1519 
+L 2066 4325 
+L 2409 4325 
+L 2409 1563 
+L 2978 1563 
+z
+M 1894 1563 
+L 1894 3666 
+L 406 1563 
+L 1894 1563 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#TimesNewRomanPSMT-2d"/>
+       <use xlink:href="#TimesNewRomanPSMT-34" transform="translate(33.300781 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_9">
+      <path d="M 76.253224 114.7075 
+L 76.253224 21.5325 
+" clip-path="url(#pf93134a5d7)" style="fill: none; stroke-dasharray: 1.85,0.8; stroke-dashoffset: 0; stroke: #000000; stroke-width: 0.5"/>
+     </g>
+     <g id="line2d_10">
+      <g>
+       <use xlink:href="#m638e9cc7ff" x="76.253224" y="114.7075" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_5">
+      <!-- -2 -->
+      <g transform="translate(72.08838 128.65125) scale(0.1 -0.1)">
+       <defs>
+        <path id="TimesNewRomanPSMT-32" d="M 2934 816 
+L 2638 0 
+L 138 0 
+L 138 116 
+Q 1241 1122 1691 1759 
+Q 2141 2397 2141 2925 
+Q 2141 3328 1894 3587 
+Q 1647 3847 1303 3847 
+Q 991 3847 742 3664 
+Q 494 3481 375 3128 
+L 259 3128 
+Q 338 3706 661 4015 
+Q 984 4325 1469 4325 
+Q 1984 4325 2329 3994 
+Q 2675 3663 2675 3213 
+Q 2675 2891 2525 2569 
+Q 2294 2063 1775 1497 
+Q 997 647 803 472 
+L 1909 472 
+Q 2247 472 2383 497 
+Q 2519 522 2628 598 
+Q 2738 675 2819 816 
+L 2934 816 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#TimesNewRomanPSMT-2d"/>
+       <use xlink:href="#TimesNewRomanPSMT-32" transform="translate(33.300781 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_6">
+     <g id="line2d_11">
+      <path d="M 85.617546 114.7075 
+L 85.617546 21.5325 
+" clip-path="url(#pf93134a5d7)" style="fill: none; stroke-dasharray: 1.85,0.8; stroke-dashoffset: 0; stroke: #000000; stroke-width: 0.5"/>
+     </g>
+     <g id="line2d_12">
+      <g>
+       <use xlink:href="#m638e9cc7ff" x="85.617546" y="114.7075" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_6">
+      <!-- 0 -->
+      <g transform="translate(83.117546 128.65125) scale(0.1 -0.1)">
+       <use xlink:href="#TimesNewRomanPSMT-30"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_7">
+     <g id="line2d_13">
+      <path d="M 94.981867 114.7075 
+L 94.981867 21.5325 
+" clip-path="url(#pf93134a5d7)" style="fill: none; stroke-dasharray: 1.85,0.8; stroke-dashoffset: 0; stroke: #000000; stroke-width: 0.5"/>
+     </g>
+     <g id="line2d_14">
+      <g>
+       <use xlink:href="#m638e9cc7ff" x="94.981867" y="114.7075" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_7">
+      <!-- 2 -->
+      <g transform="translate(92.481867 128.65125) scale(0.1 -0.1)">
+       <use xlink:href="#TimesNewRomanPSMT-32"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_8">
+     <g id="line2d_15">
+      <path d="M 104.346189 114.7075 
+L 104.346189 21.5325 
+" clip-path="url(#pf93134a5d7)" style="fill: none; stroke-dasharray: 1.85,0.8; stroke-dashoffset: 0; stroke: #000000; stroke-width: 0.5"/>
+     </g>
+     <g id="line2d_16">
+      <g>
+       <use xlink:href="#m638e9cc7ff" x="104.346189" y="114.7075" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_8">
+      <!-- 4 -->
+      <g transform="translate(101.846189 128.65125) scale(0.1 -0.1)">
+       <use xlink:href="#TimesNewRomanPSMT-34"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_9">
+     <g id="line2d_17">
+      <path d="M 113.71051 114.7075 
+L 113.71051 21.5325 
+" clip-path="url(#pf93134a5d7)" style="fill: none; stroke-dasharray: 1.85,0.8; stroke-dashoffset: 0; stroke: #000000; stroke-width: 0.5"/>
+     </g>
+     <g id="line2d_18">
+      <g>
+       <use xlink:href="#m638e9cc7ff" x="113.71051" y="114.7075" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_9">
+      <!-- 6 -->
+      <g transform="translate(111.21051 128.65125) scale(0.1 -0.1)">
+       <use xlink:href="#TimesNewRomanPSMT-36"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_10">
+     <g id="line2d_19">
+      <path d="M 123.074832 114.7075 
+L 123.074832 21.5325 
+" clip-path="url(#pf93134a5d7)" style="fill: none; stroke-dasharray: 1.85,0.8; stroke-dashoffset: 0; stroke: #000000; stroke-width: 0.5"/>
+     </g>
+     <g id="line2d_20">
+      <g>
+       <use xlink:href="#m638e9cc7ff" x="123.074832" y="114.7075" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_10">
+      <!-- 8 -->
+      <g transform="translate(120.574832 128.65125) scale(0.1 -0.1)">
+       <use xlink:href="#TimesNewRomanPSMT-38"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_11">
+     <g id="line2d_21">
+      <path d="M 131.970937 114.7075 
+L 131.970937 21.5325 
+" clip-path="url(#pf93134a5d7)" style="fill: none; stroke-dasharray: 1.85,0.8; stroke-dashoffset: 0; stroke: #000000; stroke-width: 0.5"/>
+     </g>
+     <g id="line2d_22">
+      <g>
+       <use xlink:href="#m638e9cc7ff" x="131.970937" y="114.7075" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_11">
+      <!-- 10 -->
+      <g transform="translate(126.970937 128.65125) scale(0.1 -0.1)">
+       <use xlink:href="#TimesNewRomanPSMT-31"/>
+       <use xlink:href="#TimesNewRomanPSMT-30" transform="translate(50 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="text_12">
+     <!-- P(MW) -->
+     <g transform="translate(73.162812 140.345312) scale(0.08 -0.08)">
+      <defs>
+       <path id="TimesNewRomanPSMT-50" d="M 1313 1984 
+L 1313 750 
+Q 1313 350 1400 253 
+Q 1519 116 1759 116 
+L 1922 116 
+L 1922 0 
+L 106 0 
+L 106 116 
+L 266 116 
+Q 534 116 650 291 
+Q 713 388 713 750 
+L 713 3488 
+Q 713 3888 628 3984 
+Q 506 4122 266 4122 
+L 106 4122 
+L 106 4238 
+L 1659 4238 
+Q 2228 4238 2556 4120 
+Q 2884 4003 3109 3725 
+Q 3334 3447 3334 3066 
+Q 3334 2547 2992 2222 
+Q 2650 1897 2025 1897 
+Q 1872 1897 1694 1919 
+Q 1516 1941 1313 1984 
+z
+M 1313 2163 
+Q 1478 2131 1606 2115 
+Q 1734 2100 1825 2100 
+Q 2150 2100 2386 2351 
+Q 2622 2603 2622 3003 
+Q 2622 3278 2509 3514 
+Q 2397 3750 2190 3867 
+Q 1984 3984 1722 3984 
+Q 1563 3984 1313 3925 
+L 1313 2163 
+z
+" transform="scale(0.015625)"/>
+       <path id="TimesNewRomanPSMT-28" d="M 1988 -1253 
+L 1988 -1369 
+Q 1516 -1131 1200 -813 
+Q 750 -359 506 256 
+Q 263 872 263 1534 
+Q 263 2503 741 3301 
+Q 1219 4100 1988 4444 
+L 1988 4313 
+Q 1603 4100 1356 3731 
+Q 1109 3363 987 2797 
+Q 866 2231 866 1616 
+Q 866 947 969 400 
+Q 1050 -31 1165 -292 
+Q 1281 -553 1476 -793 
+Q 1672 -1034 1988 -1253 
+z
+" transform="scale(0.015625)"/>
+       <path id="TimesNewRomanPSMT-4d" d="M 2619 0 
+L 981 3566 
+L 981 734 
+Q 981 344 1066 247 
+Q 1181 116 1431 116 
+L 1581 116 
+L 1581 0 
+L 106 0 
+L 106 116 
+L 256 116 
+Q 525 116 638 278 
+Q 706 378 706 734 
+L 706 3503 
+Q 706 3784 644 3909 
+Q 600 4000 483 4061 
+Q 366 4122 106 4122 
+L 106 4238 
+L 1306 4238 
+L 2844 922 
+L 4356 4238 
+L 5556 4238 
+L 5556 4122 
+L 5409 4122 
+Q 5138 4122 5025 3959 
+Q 4956 3859 4956 3503 
+L 4956 734 
+Q 4956 344 5044 247 
+Q 5159 116 5409 116 
+L 5556 116 
+L 5556 0 
+L 3756 0 
+L 3756 116 
+L 3906 116 
+Q 4178 116 4288 278 
+Q 4356 378 4356 734 
+L 4356 3566 
+L 2722 0 
+L 2619 0 
+z
+" transform="scale(0.015625)"/>
+       <path id="TimesNewRomanPSMT-57" d="M 5991 4238 
+L 5991 4122 
+Q 5825 4122 5722 4062 
+Q 5619 4003 5525 3841 
+Q 5463 3731 5328 3319 
+L 4147 -97 
+L 4022 -97 
+L 3056 2613 
+L 2097 -97 
+L 1984 -97 
+L 725 3422 
+Q 584 3816 547 3888 
+Q 484 4006 376 4064 
+Q 269 4122 84 4122 
+L 84 4238 
+L 1653 4238 
+L 1653 4122 
+L 1578 4122 
+Q 1413 4122 1325 4047 
+Q 1238 3972 1238 3866 
+Q 1238 3756 1375 3363 
+L 2209 984 
+L 2913 3006 
+L 2788 3363 
+L 2688 3647 
+Q 2622 3803 2541 3922 
+Q 2500 3981 2441 4022 
+Q 2363 4078 2284 4103 
+Q 2225 4122 2097 4122 
+L 2097 4238 
+L 3747 4238 
+L 3747 4122 
+L 3634 4122 
+Q 3459 4122 3378 4047 
+Q 3297 3972 3297 3844 
+Q 3297 3684 3438 3288 
+L 4250 984 
+L 5056 3319 
+Q 5194 3706 5194 3856 
+Q 5194 3928 5148 3990 
+Q 5103 4053 5034 4078 
+Q 4916 4122 4725 4122 
+L 4725 4238 
+L 5991 4238 
+z
+" transform="scale(0.015625)"/>
+       <path id="TimesNewRomanPSMT-29" d="M 144 4313 
+L 144 4444 
+Q 619 4209 934 3891 
+Q 1381 3434 1625 2820 
+Q 1869 2206 1869 1541 
+Q 1869 572 1392 -226 
+Q 916 -1025 144 -1369 
+L 144 -1253 
+Q 528 -1038 776 -670 
+Q 1025 -303 1145 264 
+Q 1266 831 1266 1447 
+Q 1266 2113 1163 2663 
+Q 1084 3094 967 3353 
+Q 850 3613 656 3853 
+Q 463 4094 144 4313 
+z
+" transform="scale(0.015625)"/>
+      </defs>
+      <use xlink:href="#TimesNewRomanPSMT-50"/>
+      <use xlink:href="#TimesNewRomanPSMT-28" transform="translate(55.615234 0)"/>
+      <use xlink:href="#TimesNewRomanPSMT-4d" transform="translate(88.916016 0)"/>
+      <use xlink:href="#TimesNewRomanPSMT-57" transform="translate(177.832031 0)"/>
+      <use xlink:href="#TimesNewRomanPSMT-29" transform="translate(272.216797 0)"/>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_23">
+      <path d="M 38.795938 114.7075 
+L 131.970937 114.7075 
+" clip-path="url(#pf93134a5d7)" style="fill: none; stroke-dasharray: 1.85,0.8; stroke-dashoffset: 0; stroke: #000000; stroke-width: 0.5"/>
+     </g>
+     <g id="line2d_24">
+      <defs>
+       <path id="me682227326" d="M 0 0 
+L -3.5 0 
+" style="stroke: #000000; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#me682227326" x="38.795938" y="114.7075" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_13">
+      <!-- -10 -->
+      <g transform="translate(18.46625 118.179375) scale(0.1 -0.1)">
+       <use xlink:href="#TimesNewRomanPSMT-2d"/>
+       <use xlink:href="#TimesNewRomanPSMT-31" transform="translate(33.300781 0)"/>
+       <use xlink:href="#TimesNewRomanPSMT-30" transform="translate(83.300781 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_25">
+      <path d="M 38.795938 105.343178 
+L 131.970937 105.343178 
+" clip-path="url(#pf93134a5d7)" style="fill: none; stroke-dasharray: 1.85,0.8; stroke-dashoffset: 0; stroke: #000000; stroke-width: 0.5"/>
+     </g>
+     <g id="line2d_26">
+      <g>
+       <use xlink:href="#me682227326" x="38.795938" y="105.343178" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_14">
+      <!-- -8 -->
+      <g transform="translate(23.46625 108.815053) scale(0.1 -0.1)">
+       <use xlink:href="#TimesNewRomanPSMT-2d"/>
+       <use xlink:href="#TimesNewRomanPSMT-38" transform="translate(33.300781 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_27">
+      <path d="M 38.795938 95.978857 
+L 131.970937 95.978857 
+" clip-path="url(#pf93134a5d7)" style="fill: none; stroke-dasharray: 1.85,0.8; stroke-dashoffset: 0; stroke: #000000; stroke-width: 0.5"/>
+     </g>
+     <g id="line2d_28">
+      <g>
+       <use xlink:href="#me682227326" x="38.795938" y="95.978857" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_15">
+      <!-- -6 -->
+      <g transform="translate(23.46625 99.450732) scale(0.1 -0.1)">
+       <use xlink:href="#TimesNewRomanPSMT-2d"/>
+       <use xlink:href="#TimesNewRomanPSMT-36" transform="translate(33.300781 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_29">
+      <path d="M 38.795938 86.614535 
+L 131.970937 86.614535 
+" clip-path="url(#pf93134a5d7)" style="fill: none; stroke-dasharray: 1.85,0.8; stroke-dashoffset: 0; stroke: #000000; stroke-width: 0.5"/>
+     </g>
+     <g id="line2d_30">
+      <g>
+       <use xlink:href="#me682227326" x="38.795938" y="86.614535" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_16">
+      <!-- -4 -->
+      <g transform="translate(23.46625 90.08641) scale(0.1 -0.1)">
+       <use xlink:href="#TimesNewRomanPSMT-2d"/>
+       <use xlink:href="#TimesNewRomanPSMT-34" transform="translate(33.300781 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="line2d_31">
+      <path d="M 38.795938 77.250214 
+L 131.970937 77.250214 
+" clip-path="url(#pf93134a5d7)" style="fill: none; stroke-dasharray: 1.85,0.8; stroke-dashoffset: 0; stroke: #000000; stroke-width: 0.5"/>
+     </g>
+     <g id="line2d_32">
+      <g>
+       <use xlink:href="#me682227326" x="38.795938" y="77.250214" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_17">
+      <!-- -2 -->
+      <g transform="translate(23.46625 80.722089) scale(0.1 -0.1)">
+       <use xlink:href="#TimesNewRomanPSMT-2d"/>
+       <use xlink:href="#TimesNewRomanPSMT-32" transform="translate(33.300781 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_6">
+     <g id="line2d_33">
+      <path d="M 38.795938 67.885892 
+L 131.970937 67.885892 
+" clip-path="url(#pf93134a5d7)" style="fill: none; stroke-dasharray: 1.85,0.8; stroke-dashoffset: 0; stroke: #000000; stroke-width: 0.5"/>
+     </g>
+     <g id="line2d_34">
+      <g>
+       <use xlink:href="#me682227326" x="38.795938" y="67.885892" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_18">
+      <!-- 0 -->
+      <g transform="translate(26.795938 71.357767) scale(0.1 -0.1)">
+       <use xlink:href="#TimesNewRomanPSMT-30"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_7">
+     <g id="line2d_35">
+      <path d="M 38.795938 58.52157 
+L 131.970937 58.52157 
+" clip-path="url(#pf93134a5d7)" style="fill: none; stroke-dasharray: 1.85,0.8; stroke-dashoffset: 0; stroke: #000000; stroke-width: 0.5"/>
+     </g>
+     <g id="line2d_36">
+      <g>
+       <use xlink:href="#me682227326" x="38.795938" y="58.52157" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_19">
+      <!-- 2 -->
+      <g transform="translate(26.795938 61.993445) scale(0.1 -0.1)">
+       <use xlink:href="#TimesNewRomanPSMT-32"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_8">
+     <g id="line2d_37">
+      <path d="M 38.795938 49.157249 
+L 131.970937 49.157249 
+" clip-path="url(#pf93134a5d7)" style="fill: none; stroke-dasharray: 1.85,0.8; stroke-dashoffset: 0; stroke: #000000; stroke-width: 0.5"/>
+     </g>
+     <g id="line2d_38">
+      <g>
+       <use xlink:href="#me682227326" x="38.795938" y="49.157249" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_20">
+      <!-- 4 -->
+      <g transform="translate(26.795938 52.629124) scale(0.1 -0.1)">
+       <use xlink:href="#TimesNewRomanPSMT-34"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_9">
+     <g id="line2d_39">
+      <path d="M 38.795938 39.792927 
+L 131.970937 39.792927 
+" clip-path="url(#pf93134a5d7)" style="fill: none; stroke-dasharray: 1.85,0.8; stroke-dashoffset: 0; stroke: #000000; stroke-width: 0.5"/>
+     </g>
+     <g id="line2d_40">
+      <g>
+       <use xlink:href="#me682227326" x="38.795938" y="39.792927" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_21">
+      <!-- 6 -->
+      <g transform="translate(26.795938 43.264802) scale(0.1 -0.1)">
+       <use xlink:href="#TimesNewRomanPSMT-36"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_10">
+     <g id="line2d_41">
+      <path d="M 38.795938 30.428606 
+L 131.970937 30.428606 
+" clip-path="url(#pf93134a5d7)" style="fill: none; stroke-dasharray: 1.85,0.8; stroke-dashoffset: 0; stroke: #000000; stroke-width: 0.5"/>
+     </g>
+     <g id="line2d_42">
+      <g>
+       <use xlink:href="#me682227326" x="38.795938" y="30.428606" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_22">
+      <!-- 8 -->
+      <g transform="translate(26.795938 33.900481) scale(0.1 -0.1)">
+       <use xlink:href="#TimesNewRomanPSMT-38"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_11">
+     <g id="line2d_43">
+      <path d="M 38.795938 21.5325 
+L 131.970937 21.5325 
+" clip-path="url(#pf93134a5d7)" style="fill: none; stroke-dasharray: 1.85,0.8; stroke-dashoffset: 0; stroke: #000000; stroke-width: 0.5"/>
+     </g>
+     <g id="line2d_44">
+      <g>
+       <use xlink:href="#me682227326" x="38.795938" y="21.5325" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_23">
+      <!-- 10 -->
+      <g transform="translate(21.795938 25.004375) scale(0.1 -0.1)">
+       <use xlink:href="#TimesNewRomanPSMT-31"/>
+       <use xlink:href="#TimesNewRomanPSMT-30" transform="translate(50 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="text_24">
+     <!-- Q(MW) -->
+     <g transform="translate(12.755 81.005) rotate(-90) scale(0.08 -0.08)">
+      <defs>
+       <path id="TimesNewRomanPSMT-51" d="M 2819 -47 
+Q 3138 -597 3508 -856 
+Q 3878 -1116 4350 -1153 
+L 4350 -1253 
+Q 3919 -1238 3428 -1080 
+Q 2938 -922 2498 -642 
+Q 2059 -363 1741 -47 
+Q 1291 134 1028 338 
+Q 647 641 436 1083 
+Q 225 1525 225 2128 
+Q 225 3078 840 3706 
+Q 1456 4334 2331 4334 
+Q 3163 4334 3770 3704 
+Q 4378 3075 4378 2116 
+Q 4378 1338 3945 750 
+Q 3513 163 2819 -47 
+z
+M 2294 4094 
+Q 1725 4094 1378 3688 
+Q 941 3178 941 2128 
+Q 941 1100 1384 544 
+Q 1728 116 2294 116 
+Q 2881 116 3241 544 
+Q 3663 1050 3663 2038 
+Q 3663 2797 3431 3316 
+Q 3253 3716 2958 3905 
+Q 2663 4094 2294 4094 
+z
+" transform="scale(0.015625)"/>
+      </defs>
+      <use xlink:href="#TimesNewRomanPSMT-51"/>
+      <use xlink:href="#TimesNewRomanPSMT-28" transform="translate(72.216797 0)"/>
+      <use xlink:href="#TimesNewRomanPSMT-4d" transform="translate(105.517578 0)"/>
+      <use xlink:href="#TimesNewRomanPSMT-57" transform="translate(194.433594 0)"/>
+      <use xlink:href="#TimesNewRomanPSMT-29" transform="translate(288.818359 0)"/>
+     </g>
+    </g>
+   </g>
+   <g id="patch_3">
+    <path d="M 38.795938 114.7075 
+L 38.795938 21.5325 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 131.970937 114.7075 
+L 131.970937 21.5325 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 38.795938 114.7075 
+L 131.970937 114.7075 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 38.795938 21.5325 
+L 131.970937 21.5325 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_25">
+    <!-- NR -->
+    <g transform="translate(77.048125 15.5325) scale(0.12 -0.12)">
+     <defs>
+      <path id="TimesNewRomanPSMT-4e" d="M -84 4238 
+L 1066 4238 
+L 3656 1059 
+L 3656 3503 
+Q 3656 3894 3569 3991 
+Q 3453 4122 3203 4122 
+L 3056 4122 
+L 3056 4238 
+L 4531 4238 
+L 4531 4122 
+L 4381 4122 
+Q 4113 4122 4000 3959 
+Q 3931 3859 3931 3503 
+L 3931 -69 
+L 3819 -69 
+L 1025 3344 
+L 1025 734 
+Q 1025 344 1109 247 
+Q 1228 116 1475 116 
+L 1625 116 
+L 1625 0 
+L 150 0 
+L 150 116 
+L 297 116 
+Q 569 116 681 278 
+Q 750 378 750 734 
+L 750 3681 
+Q 566 3897 470 3965 
+Q 375 4034 191 4094 
+Q 100 4122 -84 4122 
+L -84 4238 
+z
+" transform="scale(0.015625)"/>
+      <path id="TimesNewRomanPSMT-52" d="M 4325 0 
+L 3194 0 
+L 1759 1981 
+Q 1600 1975 1500 1975 
+Q 1459 1975 1412 1976 
+Q 1366 1978 1316 1981 
+L 1316 750 
+Q 1316 350 1403 253 
+Q 1522 116 1759 116 
+L 1925 116 
+L 1925 0 
+L 109 0 
+L 109 116 
+L 269 116 
+Q 538 116 653 291 
+Q 719 388 719 750 
+L 719 3488 
+Q 719 3888 631 3984 
+Q 509 4122 269 4122 
+L 109 4122 
+L 109 4238 
+L 1653 4238 
+Q 2328 4238 2648 4139 
+Q 2969 4041 3192 3777 
+Q 3416 3513 3416 3147 
+Q 3416 2756 3161 2468 
+Q 2906 2181 2372 2063 
+L 3247 847 
+Q 3547 428 3762 290 
+Q 3978 153 4325 116 
+L 4325 0 
+z
+M 1316 2178 
+Q 1375 2178 1419 2176 
+Q 1463 2175 1491 2175 
+Q 2097 2175 2405 2437 
+Q 2713 2700 2713 3106 
+Q 2713 3503 2464 3751 
+Q 2216 4000 1806 4000 
+Q 1625 4000 1316 3941 
+L 1316 2178 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#TimesNewRomanPSMT-4e"/>
+     <use xlink:href="#TimesNewRomanPSMT-52" transform="translate(72.216797 0)"/>
+    </g>
+   </g>
+  </g>
+  <g id="axes_2">
+   <g id="patch_7">
+    <path d="M 179.195937 114.7075 
+L 272.370937 114.7075 
+L 272.370937 21.5325 
+L 179.195937 21.5325 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g clip-path="url(#p0a43252f1e)">
+    <image xlink:href="data:image/png;base64,
+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AQiQAAAAhEgAAgBAJAABAiAQAACBEAgAAECIBAAAIkQAAAIRIAAAAQiQAAAAhEgAAgBAJAABAiAQAACBEAgAAECIBAAAIkQAAAIRIAAAAQiQAAAAhEgAAgBAJAABAiAQAACBEAgAAECIBAAAIkQAAAIRIAAAAQiQAAAAhEgAAgBAJAABAiAQAACBEAgAAECIBAAAIkQAAAIRIAAAAQiQAAAAhEgAAgBAJAABAiAQAACBEAgAAECIBAAAIkQAAAIRIAAAAQiQAAAAhEgAAgBAJAABAiAQAACBEAgAAECIBAAAIkQAAAIRIAAAAQiQAAAAhEgAAgBAJAABAiAQAACBEAgAAECIBAAAIkQAAAIRIAAAAQiQAAAAhEgAAgBAJAABAiAQAACBEAgAAECIBAAAIkQAAAIRIAAAAQiQAAAAhEgAAgBAJAABAiAQAACBEAgAAECIBAAAIkQAAAIRIAAAAQiQAAAAhEgAAgBAJAABAiAQAACBEAgAAECIBAAAIkQAAAIRIAAAAQiQAAAAhEgAAgBAJAABAiAQAACBEAgAAECIBAAAIkQAAAIRIAAAAQiQAAAAhEgAAgBAJAABAiAQAACBEAgAAECIBAAAIkQAAAIRIAAAAQiQAAAAhEgAAgBAJAABAiAQAACBEAgAAECIBAAAIkQAAAIRIAAAAQiQAAAAhEgAAgBAJAABAiAQAACBEAgAAECIBAAAIkQAAAIRIAAAAQiQAAAAhEgAAgBAJAABAiAQAACBEAgAAECIBAAAIkQAAAIRIAAAAQiQAAAAhEgAAgBAJAABAiAQAACBEAgAAECIBAAAIkQAAAIRIAAAAQiQAAAAhEgAAgBAJAABAiAQAACBEAgAAECIBAAAIkQAAAIRIAAAAQiQAAAAhEgAAgBAJAABAiAQAACBEAgAAECIBAAAIkQAAAIRIAAAAQiQAAAAhEgAAgBAJAABAiAQAACBEAgAAECIBAAAIkQAAAIRIAAAAQiQAAAAhEgAAgBAJAABAiAQAACBEAgAAECIBAAAIkQAAAIRIAAAAQiQAAAAhEgAAgBAJAABAiAQAACBEAgAAECIBAAAIkQAAAIRIAAAAQiQAAAAhEgAAgBAJAABAiAQAACBEAgAAECIBAAAIkQAAAIRIAAAAQiQAAAAhEgAAgBAJAABAiAQAACBEAgAAECIBAAAIkQAAAIRIAAAAQiQAAAAhEgAAgBAJAABAiAQAACBEAgAAECIBAAAIkQAAAIRIAAAAQiQAAAAhEgAAgBAJAABAiAQAACBEAgAAECIBAAAIkQAAAIRIAAAAQiQAAAAhEgAAgBAJAABAiAQAACBEAgAAECIBAAAIkQAAAIRIAAAAQiQAAAAhEgAAgBAJAABAiAQAACBEAgAAECIBAAAIkQAAAIRIAAAAQiQAAAAhEgAAgBAJAABAiAQAACBEAgAAECIBAAAIkQAAAIRIAAAAQiQAAAAhEgAAgBAJAABAiAQAACBEAgAAECIBAAAIkQAAAIRIAAAAQiQAAAAhEgAAgBAJAABAiAQAACBEAgAAECIBAAAIkQAAAIRIAAAAQiQAAAAhEgAAgBAJAABAiAQAACBEAgAAECIBAAAIkQAAAIRIAAAAQiQAAAAhEgAAgBAJAABAiAQAACBEAgAAECIBAAAIkQAAAIRIAAAAQiQAAAAhEgAAgBAJAABAiAQAACBEAgAAECIBAAAIkQAAAIRIAAAAQiQAAAAhEgAAgBAJAABAiAQAACBEAgAAECIBAAAIkQAAAIRIAAAAQiQAAAAhEgAAgBAJAABAiAQAACBEAgAAECIBAAAIkQAAAIRIAAAAQiQAAAAhEgAAgBAJAABAiAQAACBEAgAAECIBAAAIkQAAAIRIAAAAQiQAAAAhEgAAgBAJAABAiAQAACBEAgAAECIBAAAIkQAAAIRIAAAAQiQAAAAhEgAAgBAJAABAiAQAACBEAgAAECIBAAAIkQAAAIRIAAAAQiQAAAAhEgAAgBAJAABAiAQAACBEAgAAECIBAAAIkQAAAIRIAAAAQiQAAAAhEgAAgBAJAABAiAQAACBEAgAAECIBAAAIkQAAAIRIAAAAQiQAAAAhEgAAgBAJAABAiAQAACBEAgAAECIBAAAIkQAAAIRIAAAAQiQAAAAhEgAAgBAJAABAiAQAACBEAgAAECIBAAAIkQAAAIRIAAAAQiQAAAAhEgAAgBAJAABAiAQAACBEAgAAECIBAAAIkQAAAIRIAAAAQiQAAAAhEgAAgBAJAABAiAQAACBEAgAAECIBAACIfwEcqfqtEm8bfgAAAABJRU5ErkJggg==" id="image510a0e51ad" transform="scale(1 -1) translate(0 -93.24)" x="179.195937" y="-21.4675" width="93.24" height="93.24"/>
+   </g>
+   <g id="matplotlib.axis_3">
+    <g id="xtick_12">
+     <g id="line2d_45">
+      <path d="M 179.195937 114.7075 
+L 179.195937 21.5325 
+" clip-path="url(#p0a43252f1e)" style="fill: none; stroke-dasharray: 1.85,0.8; stroke-dashoffset: 0; stroke: #000000; stroke-width: 0.5"/>
+     </g>
+     <g id="line2d_46">
+      <g>
+       <use xlink:href="#m638e9cc7ff" x="179.195937" y="114.7075" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_26">
+      <!-- -10 -->
+      <g transform="translate(172.531094 128.65125) scale(0.1 -0.1)">
+       <use xlink:href="#TimesNewRomanPSMT-2d"/>
+       <use xlink:href="#TimesNewRomanPSMT-31" transform="translate(33.300781 0)"/>
+       <use xlink:href="#TimesNewRomanPSMT-30" transform="translate(83.300781 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_13">
+     <g id="line2d_47">
+      <path d="M 188.560259 114.7075 
+L 188.560259 21.5325 
+" clip-path="url(#p0a43252f1e)" style="fill: none; stroke-dasharray: 1.85,0.8; stroke-dashoffset: 0; stroke: #000000; stroke-width: 0.5"/>
+     </g>
+     <g id="line2d_48">
+      <g>
+       <use xlink:href="#m638e9cc7ff" x="188.560259" y="114.7075" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_27">
+      <!-- -8 -->
+      <g transform="translate(184.395415 128.65125) scale(0.1 -0.1)">
+       <use xlink:href="#TimesNewRomanPSMT-2d"/>
+       <use xlink:href="#TimesNewRomanPSMT-38" transform="translate(33.300781 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_14">
+     <g id="line2d_49">
+      <path d="M 197.924581 114.7075 
+L 197.924581 21.5325 
+" clip-path="url(#p0a43252f1e)" style="fill: none; stroke-dasharray: 1.85,0.8; stroke-dashoffset: 0; stroke: #000000; stroke-width: 0.5"/>
+     </g>
+     <g id="line2d_50">
+      <g>
+       <use xlink:href="#m638e9cc7ff" x="197.924581" y="114.7075" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_28">
+      <!-- -6 -->
+      <g transform="translate(193.759737 128.65125) scale(0.1 -0.1)">
+       <use xlink:href="#TimesNewRomanPSMT-2d"/>
+       <use xlink:href="#TimesNewRomanPSMT-36" transform="translate(33.300781 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_15">
+     <g id="line2d_51">
+      <path d="M 207.288902 114.7075 
+L 207.288902 21.5325 
+" clip-path="url(#p0a43252f1e)" style="fill: none; stroke-dasharray: 1.85,0.8; stroke-dashoffset: 0; stroke: #000000; stroke-width: 0.5"/>
+     </g>
+     <g id="line2d_52">
+      <g>
+       <use xlink:href="#m638e9cc7ff" x="207.288902" y="114.7075" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_29">
+      <!-- -4 -->
+      <g transform="translate(203.124059 128.65125) scale(0.1 -0.1)">
+       <use xlink:href="#TimesNewRomanPSMT-2d"/>
+       <use xlink:href="#TimesNewRomanPSMT-34" transform="translate(33.300781 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_16">
+     <g id="line2d_53">
+      <path d="M 216.653224 114.7075 
+L 216.653224 21.5325 
+" clip-path="url(#p0a43252f1e)" style="fill: none; stroke-dasharray: 1.85,0.8; stroke-dashoffset: 0; stroke: #000000; stroke-width: 0.5"/>
+     </g>
+     <g id="line2d_54">
+      <g>
+       <use xlink:href="#m638e9cc7ff" x="216.653224" y="114.7075" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_30">
+      <!-- -2 -->
+      <g transform="translate(212.48838 128.65125) scale(0.1 -0.1)">
+       <use xlink:href="#TimesNewRomanPSMT-2d"/>
+       <use xlink:href="#TimesNewRomanPSMT-32" transform="translate(33.300781 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_17">
+     <g id="line2d_55">
+      <path d="M 226.017546 114.7075 
+L 226.017546 21.5325 
+" clip-path="url(#p0a43252f1e)" style="fill: none; stroke-dasharray: 1.85,0.8; stroke-dashoffset: 0; stroke: #000000; stroke-width: 0.5"/>
+     </g>
+     <g id="line2d_56">
+      <g>
+       <use xlink:href="#m638e9cc7ff" x="226.017546" y="114.7075" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_31">
+      <!-- 0 -->
+      <g transform="translate(223.517546 128.65125) scale(0.1 -0.1)">
+       <use xlink:href="#TimesNewRomanPSMT-30"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_18">
+     <g id="line2d_57">
+      <path d="M 235.381867 114.7075 
+L 235.381867 21.5325 
+" clip-path="url(#p0a43252f1e)" style="fill: none; stroke-dasharray: 1.85,0.8; stroke-dashoffset: 0; stroke: #000000; stroke-width: 0.5"/>
+     </g>
+     <g id="line2d_58">
+      <g>
+       <use xlink:href="#m638e9cc7ff" x="235.381867" y="114.7075" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_32">
+      <!-- 2 -->
+      <g transform="translate(232.881867 128.65125) scale(0.1 -0.1)">
+       <use xlink:href="#TimesNewRomanPSMT-32"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_19">
+     <g id="line2d_59">
+      <path d="M 244.746189 114.7075 
+L 244.746189 21.5325 
+" clip-path="url(#p0a43252f1e)" style="fill: none; stroke-dasharray: 1.85,0.8; stroke-dashoffset: 0; stroke: #000000; stroke-width: 0.5"/>
+     </g>
+     <g id="line2d_60">
+      <g>
+       <use xlink:href="#m638e9cc7ff" x="244.746189" y="114.7075" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_33">
+      <!-- 4 -->
+      <g transform="translate(242.246189 128.65125) scale(0.1 -0.1)">
+       <use xlink:href="#TimesNewRomanPSMT-34"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_20">
+     <g id="line2d_61">
+      <path d="M 254.11051 114.7075 
+L 254.11051 21.5325 
+" clip-path="url(#p0a43252f1e)" style="fill: none; stroke-dasharray: 1.85,0.8; stroke-dashoffset: 0; stroke: #000000; stroke-width: 0.5"/>
+     </g>
+     <g id="line2d_62">
+      <g>
+       <use xlink:href="#m638e9cc7ff" x="254.11051" y="114.7075" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_34">
+      <!-- 6 -->
+      <g transform="translate(251.61051 128.65125) scale(0.1 -0.1)">
+       <use xlink:href="#TimesNewRomanPSMT-36"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_21">
+     <g id="line2d_63">
+      <path d="M 263.474832 114.7075 
+L 263.474832 21.5325 
+" clip-path="url(#p0a43252f1e)" style="fill: none; stroke-dasharray: 1.85,0.8; stroke-dashoffset: 0; stroke: #000000; stroke-width: 0.5"/>
+     </g>
+     <g id="line2d_64">
+      <g>
+       <use xlink:href="#m638e9cc7ff" x="263.474832" y="114.7075" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_35">
+      <!-- 8 -->
+      <g transform="translate(260.974832 128.65125) scale(0.1 -0.1)">
+       <use xlink:href="#TimesNewRomanPSMT-38"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_22">
+     <g id="line2d_65">
+      <path d="M 272.370937 114.7075 
+L 272.370937 21.5325 
+" clip-path="url(#p0a43252f1e)" style="fill: none; stroke-dasharray: 1.85,0.8; stroke-dashoffset: 0; stroke: #000000; stroke-width: 0.5"/>
+     </g>
+     <g id="line2d_66">
+      <g>
+       <use xlink:href="#m638e9cc7ff" x="272.370937" y="114.7075" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_36">
+      <!-- 10 -->
+      <g transform="translate(267.370937 128.65125) scale(0.1 -0.1)">
+       <use xlink:href="#TimesNewRomanPSMT-31"/>
+       <use xlink:href="#TimesNewRomanPSMT-30" transform="translate(50 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="text_37">
+     <!-- P(MW) -->
+     <g transform="translate(213.562812 140.345312) scale(0.08 -0.08)">
+      <use xlink:href="#TimesNewRomanPSMT-50"/>
+      <use xlink:href="#TimesNewRomanPSMT-28" transform="translate(55.615234 0)"/>
+      <use xlink:href="#TimesNewRomanPSMT-4d" transform="translate(88.916016 0)"/>
+      <use xlink:href="#TimesNewRomanPSMT-57" transform="translate(177.832031 0)"/>
+      <use xlink:href="#TimesNewRomanPSMT-29" transform="translate(272.216797 0)"/>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_4">
+    <g id="ytick_12">
+     <g id="line2d_67">
+      <path d="M 179.195937 114.7075 
+L 272.370937 114.7075 
+" clip-path="url(#p0a43252f1e)" style="fill: none; stroke-dasharray: 1.85,0.8; stroke-dashoffset: 0; stroke: #000000; stroke-width: 0.5"/>
+     </g>
+     <g id="line2d_68">
+      <g>
+       <use xlink:href="#me682227326" x="179.195937" y="114.7075" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_38">
+      <!-- -10 -->
+      <g transform="translate(158.86625 118.179375) scale(0.1 -0.1)">
+       <use xlink:href="#TimesNewRomanPSMT-2d"/>
+       <use xlink:href="#TimesNewRomanPSMT-31" transform="translate(33.300781 0)"/>
+       <use xlink:href="#TimesNewRomanPSMT-30" transform="translate(83.300781 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_13">
+     <g id="line2d_69">
+      <path d="M 179.195937 105.343178 
+L 272.370937 105.343178 
+" clip-path="url(#p0a43252f1e)" style="fill: none; stroke-dasharray: 1.85,0.8; stroke-dashoffset: 0; stroke: #000000; stroke-width: 0.5"/>
+     </g>
+     <g id="line2d_70">
+      <g>
+       <use xlink:href="#me682227326" x="179.195937" y="105.343178" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_39">
+      <!-- -8 -->
+      <g transform="translate(163.86625 108.815053) scale(0.1 -0.1)">
+       <use xlink:href="#TimesNewRomanPSMT-2d"/>
+       <use xlink:href="#TimesNewRomanPSMT-38" transform="translate(33.300781 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_14">
+     <g id="line2d_71">
+      <path d="M 179.195937 95.978857 
+L 272.370937 95.978857 
+" clip-path="url(#p0a43252f1e)" style="fill: none; stroke-dasharray: 1.85,0.8; stroke-dashoffset: 0; stroke: #000000; stroke-width: 0.5"/>
+     </g>
+     <g id="line2d_72">
+      <g>
+       <use xlink:href="#me682227326" x="179.195937" y="95.978857" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_40">
+      <!-- -6 -->
+      <g transform="translate(163.86625 99.450732) scale(0.1 -0.1)">
+       <use xlink:href="#TimesNewRomanPSMT-2d"/>
+       <use xlink:href="#TimesNewRomanPSMT-36" transform="translate(33.300781 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_15">
+     <g id="line2d_73">
+      <path d="M 179.195937 86.614535 
+L 272.370937 86.614535 
+" clip-path="url(#p0a43252f1e)" style="fill: none; stroke-dasharray: 1.85,0.8; stroke-dashoffset: 0; stroke: #000000; stroke-width: 0.5"/>
+     </g>
+     <g id="line2d_74">
+      <g>
+       <use xlink:href="#me682227326" x="179.195937" y="86.614535" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_41">
+      <!-- -4 -->
+      <g transform="translate(163.86625 90.08641) scale(0.1 -0.1)">
+       <use xlink:href="#TimesNewRomanPSMT-2d"/>
+       <use xlink:href="#TimesNewRomanPSMT-34" transform="translate(33.300781 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_16">
+     <g id="line2d_75">
+      <path d="M 179.195937 77.250214 
+L 272.370937 77.250214 
+" clip-path="url(#p0a43252f1e)" style="fill: none; stroke-dasharray: 1.85,0.8; stroke-dashoffset: 0; stroke: #000000; stroke-width: 0.5"/>
+     </g>
+     <g id="line2d_76">
+      <g>
+       <use xlink:href="#me682227326" x="179.195937" y="77.250214" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_42">
+      <!-- -2 -->
+      <g transform="translate(163.86625 80.722089) scale(0.1 -0.1)">
+       <use xlink:href="#TimesNewRomanPSMT-2d"/>
+       <use xlink:href="#TimesNewRomanPSMT-32" transform="translate(33.300781 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_17">
+     <g id="line2d_77">
+      <path d="M 179.195937 67.885892 
+L 272.370937 67.885892 
+" clip-path="url(#p0a43252f1e)" style="fill: none; stroke-dasharray: 1.85,0.8; stroke-dashoffset: 0; stroke: #000000; stroke-width: 0.5"/>
+     </g>
+     <g id="line2d_78">
+      <g>
+       <use xlink:href="#me682227326" x="179.195937" y="67.885892" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_43">
+      <!-- 0 -->
+      <g transform="translate(167.195937 71.357767) scale(0.1 -0.1)">
+       <use xlink:href="#TimesNewRomanPSMT-30"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_18">
+     <g id="line2d_79">
+      <path d="M 179.195937 58.52157 
+L 272.370937 58.52157 
+" clip-path="url(#p0a43252f1e)" style="fill: none; stroke-dasharray: 1.85,0.8; stroke-dashoffset: 0; stroke: #000000; stroke-width: 0.5"/>
+     </g>
+     <g id="line2d_80">
+      <g>
+       <use xlink:href="#me682227326" x="179.195937" y="58.52157" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_44">
+      <!-- 2 -->
+      <g transform="translate(167.195937 61.993445) scale(0.1 -0.1)">
+       <use xlink:href="#TimesNewRomanPSMT-32"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_19">
+     <g id="line2d_81">
+      <path d="M 179.195937 49.157249 
+L 272.370937 49.157249 
+" clip-path="url(#p0a43252f1e)" style="fill: none; stroke-dasharray: 1.85,0.8; stroke-dashoffset: 0; stroke: #000000; stroke-width: 0.5"/>
+     </g>
+     <g id="line2d_82">
+      <g>
+       <use xlink:href="#me682227326" x="179.195937" y="49.157249" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_45">
+      <!-- 4 -->
+      <g transform="translate(167.195937 52.629124) scale(0.1 -0.1)">
+       <use xlink:href="#TimesNewRomanPSMT-34"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_20">
+     <g id="line2d_83">
+      <path d="M 179.195937 39.792927 
+L 272.370937 39.792927 
+" clip-path="url(#p0a43252f1e)" style="fill: none; stroke-dasharray: 1.85,0.8; stroke-dashoffset: 0; stroke: #000000; stroke-width: 0.5"/>
+     </g>
+     <g id="line2d_84">
+      <g>
+       <use xlink:href="#me682227326" x="179.195937" y="39.792927" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_46">
+      <!-- 6 -->
+      <g transform="translate(167.195937 43.264802) scale(0.1 -0.1)">
+       <use xlink:href="#TimesNewRomanPSMT-36"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_21">
+     <g id="line2d_85">
+      <path d="M 179.195937 30.428606 
+L 272.370937 30.428606 
+" clip-path="url(#p0a43252f1e)" style="fill: none; stroke-dasharray: 1.85,0.8; stroke-dashoffset: 0; stroke: #000000; stroke-width: 0.5"/>
+     </g>
+     <g id="line2d_86">
+      <g>
+       <use xlink:href="#me682227326" x="179.195937" y="30.428606" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_47">
+      <!-- 8 -->
+      <g transform="translate(167.195937 33.900481) scale(0.1 -0.1)">
+       <use xlink:href="#TimesNewRomanPSMT-38"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_22">
+     <g id="line2d_87">
+      <path d="M 179.195937 21.5325 
+L 272.370937 21.5325 
+" clip-path="url(#p0a43252f1e)" style="fill: none; stroke-dasharray: 1.85,0.8; stroke-dashoffset: 0; stroke: #000000; stroke-width: 0.5"/>
+     </g>
+     <g id="line2d_88">
+      <g>
+       <use xlink:href="#me682227326" x="179.195937" y="21.5325" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_48">
+      <!-- 10 -->
+      <g transform="translate(162.195937 25.004375) scale(0.1 -0.1)">
+       <use xlink:href="#TimesNewRomanPSMT-31"/>
+       <use xlink:href="#TimesNewRomanPSMT-30" transform="translate(50 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="text_49">
+     <!-- Q(MW) -->
+     <g transform="translate(153.155 81.005) rotate(-90) scale(0.08 -0.08)">
+      <use xlink:href="#TimesNewRomanPSMT-51"/>
+      <use xlink:href="#TimesNewRomanPSMT-28" transform="translate(72.216797 0)"/>
+      <use xlink:href="#TimesNewRomanPSMT-4d" transform="translate(105.517578 0)"/>
+      <use xlink:href="#TimesNewRomanPSMT-57" transform="translate(194.433594 0)"/>
+      <use xlink:href="#TimesNewRomanPSMT-29" transform="translate(288.818359 0)"/>
+     </g>
+    </g>
+   </g>
+   <g id="patch_8">
+    <path d="M 179.195937 114.7075 
+L 179.195937 21.5325 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 272.370937 114.7075 
+L 272.370937 21.5325 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 179.195937 114.7075 
+L 272.370937 114.7075 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 179.195937 21.5325 
+L 272.370937 21.5325 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_50">
+    <!-- SOCP -->
+    <g transform="translate(210.775 15.5325) scale(0.12 -0.12)">
+     <defs>
+      <path id="TimesNewRomanPSMT-53" d="M 2934 4334 
+L 2934 2869 
+L 2819 2869 
+Q 2763 3291 2617 3541 
+Q 2472 3791 2203 3937 
+Q 1934 4084 1647 4084 
+Q 1322 4084 1109 3886 
+Q 897 3688 897 3434 
+Q 897 3241 1031 3081 
+Q 1225 2847 1953 2456 
+Q 2547 2138 2764 1967 
+Q 2981 1797 3098 1565 
+Q 3216 1334 3216 1081 
+Q 3216 600 2842 251 
+Q 2469 -97 1881 -97 
+Q 1697 -97 1534 -69 
+Q 1438 -53 1133 45 
+Q 828 144 747 144 
+Q 669 144 623 97 
+Q 578 50 556 -97 
+L 441 -97 
+L 441 1356 
+L 556 1356 
+Q 638 900 775 673 
+Q 913 447 1195 297 
+Q 1478 147 1816 147 
+Q 2206 147 2432 353 
+Q 2659 559 2659 841 
+Q 2659 997 2573 1156 
+Q 2488 1316 2306 1453 
+Q 2184 1547 1640 1851 
+Q 1097 2156 867 2337 
+Q 638 2519 519 2737 
+Q 400 2956 400 3219 
+Q 400 3675 750 4004 
+Q 1100 4334 1641 4334 
+Q 1978 4334 2356 4169 
+Q 2531 4091 2603 4091 
+Q 2684 4091 2736 4139 
+Q 2788 4188 2819 4334 
+L 2934 4334 
+z
+" transform="scale(0.015625)"/>
+      <path id="TimesNewRomanPSMT-4f" d="M 2341 4334 
+Q 3166 4334 3770 3707 
+Q 4375 3081 4375 2144 
+Q 4375 1178 3765 540 
+Q 3156 -97 2291 -97 
+Q 1416 -97 820 525 
+Q 225 1147 225 2134 
+Q 225 3144 913 3781 
+Q 1509 4334 2341 4334 
+z
+M 2281 4106 
+Q 1713 4106 1369 3684 
+Q 941 3159 941 2147 
+Q 941 1109 1384 550 
+Q 1725 125 2284 125 
+Q 2881 125 3270 590 
+Q 3659 1056 3659 2059 
+Q 3659 3147 3231 3681 
+Q 2888 4106 2281 4106 
+z
+" transform="scale(0.015625)"/>
+      <path id="TimesNewRomanPSMT-43" d="M 3853 4334 
+L 3950 2894 
+L 3853 2894 
+Q 3659 3541 3300 3825 
+Q 2941 4109 2438 4109 
+Q 2016 4109 1675 3895 
+Q 1334 3681 1139 3212 
+Q 944 2744 944 2047 
+Q 944 1472 1128 1050 
+Q 1313 628 1683 403 
+Q 2053 178 2528 178 
+Q 2941 178 3256 354 
+Q 3572 531 3950 1056 
+L 4047 994 
+Q 3728 428 3303 165 
+Q 2878 -97 2294 -97 
+Q 1241 -97 663 684 
+Q 231 1266 231 2053 
+Q 231 2688 515 3219 
+Q 800 3750 1298 4042 
+Q 1797 4334 2388 4334 
+Q 2847 4334 3294 4109 
+Q 3425 4041 3481 4041 
+Q 3566 4041 3628 4100 
+Q 3709 4184 3744 4334 
+L 3853 4334 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#TimesNewRomanPSMT-53"/>
+     <use xlink:href="#TimesNewRomanPSMT-4f" transform="translate(55.615234 0)"/>
+     <use xlink:href="#TimesNewRomanPSMT-43" transform="translate(127.832031 0)"/>
+     <use xlink:href="#TimesNewRomanPSMT-50" transform="translate(194.53125 0)"/>
+    </g>
+   </g>
+  </g>
+  <g id="axes_3">
+   <g id="patch_12">
+    <path d="M 319.595937 114.7075 
+L 412.770937 114.7075 
+L 412.770937 21.5325 
+L 319.595937 21.5325 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g clip-path="url(#pfa6d52166e)">
+    <image xlink:href="data:image/png;base64,
+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" id="image948a58dbb9" transform="scale(1 -1) translate(0 -93.24)" x="319.595937" y="-21.4675" width="93.24" height="93.24"/>
+   </g>
+   <g id="matplotlib.axis_5">
+    <g id="xtick_23">
+     <g id="line2d_89">
+      <path d="M 319.595937 114.7075 
+L 319.595937 21.5325 
+" clip-path="url(#pfa6d52166e)" style="fill: none; stroke-dasharray: 1.85,0.8; stroke-dashoffset: 0; stroke: #000000; stroke-width: 0.5"/>
+     </g>
+     <g id="line2d_90">
+      <g>
+       <use xlink:href="#m638e9cc7ff" x="319.595937" y="114.7075" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_51">
+      <!-- -10 -->
+      <g transform="translate(312.931094 128.65125) scale(0.1 -0.1)">
+       <use xlink:href="#TimesNewRomanPSMT-2d"/>
+       <use xlink:href="#TimesNewRomanPSMT-31" transform="translate(33.300781 0)"/>
+       <use xlink:href="#TimesNewRomanPSMT-30" transform="translate(83.300781 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_24">
+     <g id="line2d_91">
+      <path d="M 328.960259 114.7075 
+L 328.960259 21.5325 
+" clip-path="url(#pfa6d52166e)" style="fill: none; stroke-dasharray: 1.85,0.8; stroke-dashoffset: 0; stroke: #000000; stroke-width: 0.5"/>
+     </g>
+     <g id="line2d_92">
+      <g>
+       <use xlink:href="#m638e9cc7ff" x="328.960259" y="114.7075" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_52">
+      <!-- -8 -->
+      <g transform="translate(324.795415 128.65125) scale(0.1 -0.1)">
+       <use xlink:href="#TimesNewRomanPSMT-2d"/>
+       <use xlink:href="#TimesNewRomanPSMT-38" transform="translate(33.300781 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_25">
+     <g id="line2d_93">
+      <path d="M 338.324581 114.7075 
+L 338.324581 21.5325 
+" clip-path="url(#pfa6d52166e)" style="fill: none; stroke-dasharray: 1.85,0.8; stroke-dashoffset: 0; stroke: #000000; stroke-width: 0.5"/>
+     </g>
+     <g id="line2d_94">
+      <g>
+       <use xlink:href="#m638e9cc7ff" x="338.324581" y="114.7075" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_53">
+      <!-- -6 -->
+      <g transform="translate(334.159737 128.65125) scale(0.1 -0.1)">
+       <use xlink:href="#TimesNewRomanPSMT-2d"/>
+       <use xlink:href="#TimesNewRomanPSMT-36" transform="translate(33.300781 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_26">
+     <g id="line2d_95">
+      <path d="M 347.688902 114.7075 
+L 347.688902 21.5325 
+" clip-path="url(#pfa6d52166e)" style="fill: none; stroke-dasharray: 1.85,0.8; stroke-dashoffset: 0; stroke: #000000; stroke-width: 0.5"/>
+     </g>
+     <g id="line2d_96">
+      <g>
+       <use xlink:href="#m638e9cc7ff" x="347.688902" y="114.7075" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_54">
+      <!-- -4 -->
+      <g transform="translate(343.524059 128.65125) scale(0.1 -0.1)">
+       <use xlink:href="#TimesNewRomanPSMT-2d"/>
+       <use xlink:href="#TimesNewRomanPSMT-34" transform="translate(33.300781 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_27">
+     <g id="line2d_97">
+      <path d="M 357.053224 114.7075 
+L 357.053224 21.5325 
+" clip-path="url(#pfa6d52166e)" style="fill: none; stroke-dasharray: 1.85,0.8; stroke-dashoffset: 0; stroke: #000000; stroke-width: 0.5"/>
+     </g>
+     <g id="line2d_98">
+      <g>
+       <use xlink:href="#m638e9cc7ff" x="357.053224" y="114.7075" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_55">
+      <!-- -2 -->
+      <g transform="translate(352.88838 128.65125) scale(0.1 -0.1)">
+       <use xlink:href="#TimesNewRomanPSMT-2d"/>
+       <use xlink:href="#TimesNewRomanPSMT-32" transform="translate(33.300781 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_28">
+     <g id="line2d_99">
+      <path d="M 366.417546 114.7075 
+L 366.417546 21.5325 
+" clip-path="url(#pfa6d52166e)" style="fill: none; stroke-dasharray: 1.85,0.8; stroke-dashoffset: 0; stroke: #000000; stroke-width: 0.5"/>
+     </g>
+     <g id="line2d_100">
+      <g>
+       <use xlink:href="#m638e9cc7ff" x="366.417546" y="114.7075" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_56">
+      <!-- 0 -->
+      <g transform="translate(363.917546 128.65125) scale(0.1 -0.1)">
+       <use xlink:href="#TimesNewRomanPSMT-30"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_29">
+     <g id="line2d_101">
+      <path d="M 375.781867 114.7075 
+L 375.781867 21.5325 
+" clip-path="url(#pfa6d52166e)" style="fill: none; stroke-dasharray: 1.85,0.8; stroke-dashoffset: 0; stroke: #000000; stroke-width: 0.5"/>
+     </g>
+     <g id="line2d_102">
+      <g>
+       <use xlink:href="#m638e9cc7ff" x="375.781867" y="114.7075" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_57">
+      <!-- 2 -->
+      <g transform="translate(373.281867 128.65125) scale(0.1 -0.1)">
+       <use xlink:href="#TimesNewRomanPSMT-32"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_30">
+     <g id="line2d_103">
+      <path d="M 385.146189 114.7075 
+L 385.146189 21.5325 
+" clip-path="url(#pfa6d52166e)" style="fill: none; stroke-dasharray: 1.85,0.8; stroke-dashoffset: 0; stroke: #000000; stroke-width: 0.5"/>
+     </g>
+     <g id="line2d_104">
+      <g>
+       <use xlink:href="#m638e9cc7ff" x="385.146189" y="114.7075" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_58">
+      <!-- 4 -->
+      <g transform="translate(382.646189 128.65125) scale(0.1 -0.1)">
+       <use xlink:href="#TimesNewRomanPSMT-34"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_31">
+     <g id="line2d_105">
+      <path d="M 394.51051 114.7075 
+L 394.51051 21.5325 
+" clip-path="url(#pfa6d52166e)" style="fill: none; stroke-dasharray: 1.85,0.8; stroke-dashoffset: 0; stroke: #000000; stroke-width: 0.5"/>
+     </g>
+     <g id="line2d_106">
+      <g>
+       <use xlink:href="#m638e9cc7ff" x="394.51051" y="114.7075" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_59">
+      <!-- 6 -->
+      <g transform="translate(392.01051 128.65125) scale(0.1 -0.1)">
+       <use xlink:href="#TimesNewRomanPSMT-36"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_32">
+     <g id="line2d_107">
+      <path d="M 403.874832 114.7075 
+L 403.874832 21.5325 
+" clip-path="url(#pfa6d52166e)" style="fill: none; stroke-dasharray: 1.85,0.8; stroke-dashoffset: 0; stroke: #000000; stroke-width: 0.5"/>
+     </g>
+     <g id="line2d_108">
+      <g>
+       <use xlink:href="#m638e9cc7ff" x="403.874832" y="114.7075" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_60">
+      <!-- 8 -->
+      <g transform="translate(401.374832 128.65125) scale(0.1 -0.1)">
+       <use xlink:href="#TimesNewRomanPSMT-38"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_33">
+     <g id="line2d_109">
+      <path d="M 412.770937 114.7075 
+L 412.770937 21.5325 
+" clip-path="url(#pfa6d52166e)" style="fill: none; stroke-dasharray: 1.85,0.8; stroke-dashoffset: 0; stroke: #000000; stroke-width: 0.5"/>
+     </g>
+     <g id="line2d_110">
+      <g>
+       <use xlink:href="#m638e9cc7ff" x="412.770937" y="114.7075" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_61">
+      <!-- 10 -->
+      <g transform="translate(407.770937 128.65125) scale(0.1 -0.1)">
+       <use xlink:href="#TimesNewRomanPSMT-31"/>
+       <use xlink:href="#TimesNewRomanPSMT-30" transform="translate(50 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="text_62">
+     <!-- P(MW) -->
+     <g transform="translate(353.962812 140.345312) scale(0.08 -0.08)">
+      <use xlink:href="#TimesNewRomanPSMT-50"/>
+      <use xlink:href="#TimesNewRomanPSMT-28" transform="translate(55.615234 0)"/>
+      <use xlink:href="#TimesNewRomanPSMT-4d" transform="translate(88.916016 0)"/>
+      <use xlink:href="#TimesNewRomanPSMT-57" transform="translate(177.832031 0)"/>
+      <use xlink:href="#TimesNewRomanPSMT-29" transform="translate(272.216797 0)"/>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_6">
+    <g id="ytick_23">
+     <g id="line2d_111">
+      <path d="M 319.595937 114.7075 
+L 412.770937 114.7075 
+" clip-path="url(#pfa6d52166e)" style="fill: none; stroke-dasharray: 1.85,0.8; stroke-dashoffset: 0; stroke: #000000; stroke-width: 0.5"/>
+     </g>
+     <g id="line2d_112">
+      <g>
+       <use xlink:href="#me682227326" x="319.595937" y="114.7075" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_63">
+      <!-- -10 -->
+      <g transform="translate(299.26625 118.179375) scale(0.1 -0.1)">
+       <use xlink:href="#TimesNewRomanPSMT-2d"/>
+       <use xlink:href="#TimesNewRomanPSMT-31" transform="translate(33.300781 0)"/>
+       <use xlink:href="#TimesNewRomanPSMT-30" transform="translate(83.300781 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_24">
+     <g id="line2d_113">
+      <path d="M 319.595937 105.343178 
+L 412.770937 105.343178 
+" clip-path="url(#pfa6d52166e)" style="fill: none; stroke-dasharray: 1.85,0.8; stroke-dashoffset: 0; stroke: #000000; stroke-width: 0.5"/>
+     </g>
+     <g id="line2d_114">
+      <g>
+       <use xlink:href="#me682227326" x="319.595937" y="105.343178" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_64">
+      <!-- -8 -->
+      <g transform="translate(304.26625 108.815053) scale(0.1 -0.1)">
+       <use xlink:href="#TimesNewRomanPSMT-2d"/>
+       <use xlink:href="#TimesNewRomanPSMT-38" transform="translate(33.300781 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_25">
+     <g id="line2d_115">
+      <path d="M 319.595937 95.978857 
+L 412.770937 95.978857 
+" clip-path="url(#pfa6d52166e)" style="fill: none; stroke-dasharray: 1.85,0.8; stroke-dashoffset: 0; stroke: #000000; stroke-width: 0.5"/>
+     </g>
+     <g id="line2d_116">
+      <g>
+       <use xlink:href="#me682227326" x="319.595937" y="95.978857" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_65">
+      <!-- -6 -->
+      <g transform="translate(304.26625 99.450732) scale(0.1 -0.1)">
+       <use xlink:href="#TimesNewRomanPSMT-2d"/>
+       <use xlink:href="#TimesNewRomanPSMT-36" transform="translate(33.300781 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_26">
+     <g id="line2d_117">
+      <path d="M 319.595937 86.614535 
+L 412.770937 86.614535 
+" clip-path="url(#pfa6d52166e)" style="fill: none; stroke-dasharray: 1.85,0.8; stroke-dashoffset: 0; stroke: #000000; stroke-width: 0.5"/>
+     </g>
+     <g id="line2d_118">
+      <g>
+       <use xlink:href="#me682227326" x="319.595937" y="86.614535" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_66">
+      <!-- -4 -->
+      <g transform="translate(304.26625 90.08641) scale(0.1 -0.1)">
+       <use xlink:href="#TimesNewRomanPSMT-2d"/>
+       <use xlink:href="#TimesNewRomanPSMT-34" transform="translate(33.300781 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_27">
+     <g id="line2d_119">
+      <path d="M 319.595937 77.250214 
+L 412.770937 77.250214 
+" clip-path="url(#pfa6d52166e)" style="fill: none; stroke-dasharray: 1.85,0.8; stroke-dashoffset: 0; stroke: #000000; stroke-width: 0.5"/>
+     </g>
+     <g id="line2d_120">
+      <g>
+       <use xlink:href="#me682227326" x="319.595937" y="77.250214" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_67">
+      <!-- -2 -->
+      <g transform="translate(304.26625 80.722089) scale(0.1 -0.1)">
+       <use xlink:href="#TimesNewRomanPSMT-2d"/>
+       <use xlink:href="#TimesNewRomanPSMT-32" transform="translate(33.300781 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_28">
+     <g id="line2d_121">
+      <path d="M 319.595937 67.885892 
+L 412.770937 67.885892 
+" clip-path="url(#pfa6d52166e)" style="fill: none; stroke-dasharray: 1.85,0.8; stroke-dashoffset: 0; stroke: #000000; stroke-width: 0.5"/>
+     </g>
+     <g id="line2d_122">
+      <g>
+       <use xlink:href="#me682227326" x="319.595937" y="67.885892" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_68">
+      <!-- 0 -->
+      <g transform="translate(307.595937 71.357767) scale(0.1 -0.1)">
+       <use xlink:href="#TimesNewRomanPSMT-30"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_29">
+     <g id="line2d_123">
+      <path d="M 319.595937 58.52157 
+L 412.770937 58.52157 
+" clip-path="url(#pfa6d52166e)" style="fill: none; stroke-dasharray: 1.85,0.8; stroke-dashoffset: 0; stroke: #000000; stroke-width: 0.5"/>
+     </g>
+     <g id="line2d_124">
+      <g>
+       <use xlink:href="#me682227326" x="319.595937" y="58.52157" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_69">
+      <!-- 2 -->
+      <g transform="translate(307.595937 61.993445) scale(0.1 -0.1)">
+       <use xlink:href="#TimesNewRomanPSMT-32"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_30">
+     <g id="line2d_125">
+      <path d="M 319.595937 49.157249 
+L 412.770937 49.157249 
+" clip-path="url(#pfa6d52166e)" style="fill: none; stroke-dasharray: 1.85,0.8; stroke-dashoffset: 0; stroke: #000000; stroke-width: 0.5"/>
+     </g>
+     <g id="line2d_126">
+      <g>
+       <use xlink:href="#me682227326" x="319.595937" y="49.157249" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_70">
+      <!-- 4 -->
+      <g transform="translate(307.595937 52.629124) scale(0.1 -0.1)">
+       <use xlink:href="#TimesNewRomanPSMT-34"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_31">
+     <g id="line2d_127">
+      <path d="M 319.595937 39.792927 
+L 412.770937 39.792927 
+" clip-path="url(#pfa6d52166e)" style="fill: none; stroke-dasharray: 1.85,0.8; stroke-dashoffset: 0; stroke: #000000; stroke-width: 0.5"/>
+     </g>
+     <g id="line2d_128">
+      <g>
+       <use xlink:href="#me682227326" x="319.595937" y="39.792927" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_71">
+      <!-- 6 -->
+      <g transform="translate(307.595937 43.264802) scale(0.1 -0.1)">
+       <use xlink:href="#TimesNewRomanPSMT-36"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_32">
+     <g id="line2d_129">
+      <path d="M 319.595937 30.428606 
+L 412.770937 30.428606 
+" clip-path="url(#pfa6d52166e)" style="fill: none; stroke-dasharray: 1.85,0.8; stroke-dashoffset: 0; stroke: #000000; stroke-width: 0.5"/>
+     </g>
+     <g id="line2d_130">
+      <g>
+       <use xlink:href="#me682227326" x="319.595937" y="30.428606" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_72">
+      <!-- 8 -->
+      <g transform="translate(307.595937 33.900481) scale(0.1 -0.1)">
+       <use xlink:href="#TimesNewRomanPSMT-38"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_33">
+     <g id="line2d_131">
+      <path d="M 319.595937 21.5325 
+L 412.770937 21.5325 
+" clip-path="url(#pfa6d52166e)" style="fill: none; stroke-dasharray: 1.85,0.8; stroke-dashoffset: 0; stroke: #000000; stroke-width: 0.5"/>
+     </g>
+     <g id="line2d_132">
+      <g>
+       <use xlink:href="#me682227326" x="319.595937" y="21.5325" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_73">
+      <!-- 10 -->
+      <g transform="translate(302.595937 25.004375) scale(0.1 -0.1)">
+       <use xlink:href="#TimesNewRomanPSMT-31"/>
+       <use xlink:href="#TimesNewRomanPSMT-30" transform="translate(50 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="text_74">
+     <!-- Q(MW) -->
+     <g transform="translate(293.555 81.005) rotate(-90) scale(0.08 -0.08)">
+      <use xlink:href="#TimesNewRomanPSMT-51"/>
+      <use xlink:href="#TimesNewRomanPSMT-28" transform="translate(72.216797 0)"/>
+      <use xlink:href="#TimesNewRomanPSMT-4d" transform="translate(105.517578 0)"/>
+      <use xlink:href="#TimesNewRomanPSMT-57" transform="translate(194.433594 0)"/>
+      <use xlink:href="#TimesNewRomanPSMT-29" transform="translate(288.818359 0)"/>
+     </g>
+    </g>
+   </g>
+   <g id="patch_13">
+    <path d="M 319.595937 114.7075 
+L 319.595937 21.5325 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_14">
+    <path d="M 412.770937 114.7075 
+L 412.770937 21.5325 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_15">
+    <path d="M 319.595937 114.7075 
+L 412.770937 114.7075 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_16">
+    <path d="M 319.595937 21.5325 
+L 412.770937 21.5325 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_75">
+    <!-- GCLDM -->
+    <g transform="translate(344.515 15.5325) scale(0.12 -0.12)">
+     <defs>
+      <path id="TimesNewRomanPSMT-47" d="M 3928 4334 
+L 4038 2997 
+L 3928 2997 
+Q 3763 3497 3500 3750 
+Q 3122 4116 2528 4116 
+Q 1719 4116 1297 3475 
+Q 944 2934 944 2188 
+Q 944 1581 1178 1081 
+Q 1413 581 1792 348 
+Q 2172 116 2572 116 
+Q 2806 116 3025 175 
+Q 3244 234 3447 350 
+L 3447 1575 
+Q 3447 1894 3398 1992 
+Q 3350 2091 3248 2142 
+Q 3147 2194 2891 2194 
+L 2891 2313 
+L 4531 2313 
+L 4531 2194 
+L 4453 2194 
+Q 4209 2194 4119 2031 
+Q 4056 1916 4056 1575 
+L 4056 278 
+Q 3697 84 3347 -6 
+Q 2997 -97 2569 -97 
+Q 1341 -97 703 691 
+Q 225 1281 225 2053 
+Q 225 2613 494 3125 
+Q 813 3734 1369 4063 
+Q 1834 4334 2469 4334 
+Q 2700 4334 2889 4296 
+Q 3078 4259 3425 4131 
+Q 3600 4066 3659 4066 
+Q 3719 4066 3761 4120 
+Q 3803 4175 3813 4334 
+L 3928 4334 
+z
+" transform="scale(0.015625)"/>
+      <path id="TimesNewRomanPSMT-4c" d="M 3669 1172 
+L 3772 1150 
+L 3409 0 
+L 128 0 
+L 128 116 
+L 288 116 
+Q 556 116 672 291 
+Q 738 391 738 753 
+L 738 3488 
+Q 738 3884 650 3984 
+Q 528 4122 288 4122 
+L 128 4122 
+L 128 4238 
+L 2047 4238 
+L 2047 4122 
+Q 1709 4125 1573 4059 
+Q 1438 3994 1388 3894 
+Q 1338 3794 1338 3416 
+L 1338 753 
+Q 1338 494 1388 397 
+Q 1425 331 1503 300 
+Q 1581 269 1991 269 
+L 2300 269 
+Q 2788 269 2984 341 
+Q 3181 413 3343 595 
+Q 3506 778 3669 1172 
+z
+" transform="scale(0.015625)"/>
+      <path id="TimesNewRomanPSMT-44" d="M 109 0 
+L 109 116 
+L 269 116 
+Q 538 116 650 288 
+Q 719 391 719 750 
+L 719 3488 
+Q 719 3884 631 3984 
+Q 509 4122 269 4122 
+L 109 4122 
+L 109 4238 
+L 1834 4238 
+Q 2784 4238 3279 4022 
+Q 3775 3806 4076 3303 
+Q 4378 2800 4378 2141 
+Q 4378 1256 3841 663 
+Q 3238 0 2003 0 
+L 109 0 
+z
+M 1319 306 
+Q 1716 219 1984 219 
+Q 2709 219 3187 728 
+Q 3666 1238 3666 2109 
+Q 3666 2988 3187 3494 
+Q 2709 4000 1959 4000 
+Q 1678 4000 1319 3909 
+L 1319 306 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#TimesNewRomanPSMT-47"/>
+     <use xlink:href="#TimesNewRomanPSMT-43" transform="translate(72.216797 0)"/>
+     <use xlink:href="#TimesNewRomanPSMT-4c" transform="translate(138.916016 0)"/>
+     <use xlink:href="#TimesNewRomanPSMT-44" transform="translate(200 0)"/>
+     <use xlink:href="#TimesNewRomanPSMT-4d" transform="translate(272.216797 0)"/>
+    </g>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pf93134a5d7">
+   <rect x="38.795938" y="21.5325" width="93.175" height="93.175"/>
+  </clipPath>
+  <clipPath id="p0a43252f1e">
+   <rect x="179.195937" y="21.5325" width="93.175" height="93.175"/>
+  </clipPath>
+  <clipPath id="pfa6d52166e">
+   <rect x="319.595937" y="21.5325" width="93.175" height="93.175"/>
+  </clipPath>
+ </defs>
+</svg>
